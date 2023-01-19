@@ -4,6 +4,7 @@
 - My favorite hobby is playing video games and Tabletop RPGs
 
 ## Missions
-### Mission 1
+### Mission 1 
+- [X]
 Lesson_learned.md: https://github.com/AerE361/mission-1-JlHarper1203/blob/devel-jacklh1/lessons_learned.md 
 
