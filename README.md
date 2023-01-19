@@ -5,5 +5,5 @@
 
 ## Missions
 ### Mission 1
-Lesson_learned.md: https://github.com/AerE361/mission-1-JlHarper1203/blob/devel-jacklh1/lessons_learned.md [X]
+Lesson_learned.md: https://github.com/AerE361/mission-1-JlHarper1203/blob/devel-jacklh1/lessons_learned.md 
 
